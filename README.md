@@ -26,7 +26,7 @@ Neste repositório você tem acesso a todo o material produzido no curso.
 
 ## 📁 Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto inicial](https://culturama-six-puce.vercel.app) ou [baixá-lo](https://github.com/italocaraujo/age-calculator-app/archive/refs/heads/main.zip).
+Você pode [acessar o código fonte do projeto inicial](https://culturama-six-puce.vercel.app) ou [baixá-lo](https://github.com/italocaraujo/culturama/archive/refs/heads/main.zip).
 
 
 ## 🛠️ Abrir e rodar o projeto
